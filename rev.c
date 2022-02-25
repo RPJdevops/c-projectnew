@@ -5,7 +5,7 @@ int reverse()
   int i, j, count = 0;
   pintf("\n Enter the string:");
   scanf("%s", str);
-  printf("\nString Before Reverse: %s", str);
+  printf("\nStrings Before Reverse: %s", str);
   //finding the length of the string
   while (str[count] != '\0')
   {
