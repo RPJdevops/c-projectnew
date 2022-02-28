@@ -3,7 +3,7 @@ int reverse()
 {
   char str[1000], rev[1000];
   int i, j, count = 0;
-  pintf("\n Enter The string:");
+  pintf("\n enter The string:");
   scanf("%s", str);
   printf("\nStrings Before REVERSE: %s", str);
   //finding the length of the string
